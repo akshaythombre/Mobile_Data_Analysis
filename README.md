@@ -6,6 +6,7 @@ This dataset is valuable for understanding the mobile phone market's dynamics, t
 [Mobile Data Analysis](https://www.kaggle.com/code/kirteerathod/mobiles-dataset-analysis))
 
 <img src="https://png.pngtree.com/background/20250208/original/pngtree-smartphone-displaying-3d-graphs-and-data-analytics-on-screen-desk-near-picture-image_16217427.jpg" width=1200>
+
 ## Overview :
 This dataset provides detailed information about mobile phones released up to the year 2025. It contains 930 entries and 15 columns, capturing key specifications, prices in different countries, and launch years for a variety of mobile models.
 
