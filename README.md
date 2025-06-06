@@ -3,7 +3,7 @@ This dataset is valuable for understanding the mobile phone market's dynamics, t
 
 ## Project Link
 
-[Mobile Data Analysis](https://www.kaggle.com/code/kirteerathod/mobiles-dataset-analysis))
+[Mobile Data Analysis](https://github.com/akshaythombre/Mobile_Data_Analysis/blob/main/Mobiles_project.ipynb))
 
 <img src="https://png.pngtree.com/background/20250208/original/pngtree-smartphone-displaying-3d-graphs-and-data-analytics-on-screen-desk-near-picture-image_16217427.jpg" width=1200>
 
